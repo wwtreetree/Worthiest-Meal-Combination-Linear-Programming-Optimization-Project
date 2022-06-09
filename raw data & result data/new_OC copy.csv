@@ -1,0 +1,39 @@
+ID,Name,Type,Price,Serving Size,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbs,Dietary Fiber,Sugar,Protein
+OC_M_1,Classic_Beef_Burger,Main,8.29,320,570,29,8,0.5,80,1320,54,7,7,25
+OC_M_2,Classic_Cheese_Burger,Main,9.29,345,630,33,11,0.5,95,1430,54,7,7,28
+OC_M_3,Chickpea_Burger,Main,10.99,1 Burger,600,20,2,0,0,910,91,14,12,20
+OC_M_4,Blackened_Chicken_Burger,Main,10.99,1 Burger,530,20,4.5,0,100,1810,51,6,6,38
+OC_M_5,Classic_Grilled_Cheese_Sandwich,Main,7.99,1 Sandwich,900,56,31,1.5,130,1020,67,3,3,25
+OC_M_6,Crispy_Fish_Sandwich,Main,11.99,1 Sandwich,560,16,1,16,35,1220,80,7,11,24
+OC_M_7,Poutine,Main,8.29,400,880,51,16,0,80,2510,79,6,0,24
+OC_M_8,Baja_Salad,Main,9.99,380,800,69,8,0,15,460,34,9,7,17
+OC_M_9,Kale_Caesar,Main,8.99,210,400,24,6,0,35,1010,33,5,3,15
+OC_M_10,Southwest_Bowl,Main,8.99,1. bowl,880,59,4,0,15,740,64,13,16,11
+OC_M_11,Harvest_Squash_Pasta,Main,10.99,1 Bowl,840,35,15,0,0,730,113,20,20,24
+OC_M_12,King_Oyster_Mushroom,Main,8.99,1 Bowl,600,33,2,0,0,480,64,11,7,18
+OC_M_13,Mezze_Platter,Main,9.29,1 Bowl,590,29,1.5,0,0,1210,74,14,17,15
+OC_M_14,OK_Flatbread,Main,7.99,1 Flatbread,480,27,6,0,60,950,38,3,11,11
+OC_M_17,Vegetable_Burrito,Main,7.99,1 Burrito,540,14,5,0,1405,5,16,4,89,16
+OC_M_18,Pulled_Pork_Burrito,Main,8.99,1 Burrito,710,21,7,0,90,1680,93,6,5,39
+OC_M_19,Chicken_Burrito,Main,9.99,1 Burrito,700,22,6,0,105,1500,92,6,4,35
+OC_S_1,Side_Chicken_Stripts,Side,9.29,250,1330,95,4.5,0,75,1810,78,3,29,36
+OC_S_2,French_Fries,Side,4.69,230,540,26,2,0,0,1350,70,6,0,6
+OC_S_3,Yam_Fries,Side,5.29,170,400,16,2,0,0,490,62,4,19,3
+OC_S_5,add_Cheese,Side,1.19,1 Slice,60,3.5,3,0,15,110,0,0,0,3
+OC_S_7,add_Baja_Salad,Side,4.99,190,400,34,4,0,5,230,17,4,4,9
+OC_S_8,Side_Kale_Caesar,Side,4.99,105,200,12,3,0,20,510,17,3,2,7
+OC_S_12,Multigrain_Bagel,Side,2.59,1 Bagel,320,3.5,0.5,0,55,0,5,4,4,12
+OC_S_13,Plain_Bagel,Side,2.59,1 Bagel,300,1.5,0,0,55,0,5,5,2,11
+OC_S_14,Sesame_Seed_Bagel,Side,2.59,1 Bagel,310,3,0.5,0,55,0,5,5,3,11
+OC_S_15,Plain_Croissant,Side,2.45,1 Croissant,180,9,5,0,20,30,4,2,1,4
+OC_S_16,Cheese_Croisssant,Side,3.69,1 Croissant,220,13,7,0,20,40,4,3,1,6
+OC_S_17,Ham&Cheese_Croissant,Side,5.29,1 Croissant,230,13,6,0,20,35,4,4,1,9
+OC_S_23,UBC_Ponderosa_Cake,Side,3.69,1 cake,670,28,17,1,95,115,45,9,3,10
+OC_S_25,UBC_Granola_Bar,Side,2.99,1 Bar,550,30,4.5,0,60,0,20,1,9,16
+OC_S_26,Banana_Loaf,Side,3.29,1 Slice,350,14,1.5,0,50,50,30,4,2,5
+OC_S_27,Lemon_Loaf,Side,3.29,1 Slice,570,20,1.5,0,90,25,56,3,1,6
+OC_S_28,Pumpkin_Loaf,Side,3.29,1 Slice,330,10,1,0,55,35,37,3,2,4
+OC_S_31,Chocolate_Chip_Cookie,Side,2.79,1 Cookie,360,17,7,0,50,20,31,3,0,5
+OC_S_32,Double_Chocolate_Cookie,Side,2.79,1 Cookie,370,18,8,0,15,20,31,1,0,4
+OC_S_33,White_Choclate_Macadamia_Cookie,Side,2.79,1 Cookie,380,19,8,0,50,20,31,3,0,5
+OC_S_34,Monster_M&M_Cookie,Side,2.79,1 Cookie,360,16,7,0,50,20,32,3,1,4

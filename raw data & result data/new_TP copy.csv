@@ -1,0 +1,34 @@
+ID,Name,Type,Price,Serving size,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbs,Dietary Fiber,Sugar,Protein
+TP_M_1,Classic_Burger,Main,8.29,1 Bugerbeef Patty,580,27,8,0.5,80,1700,59,7,11,26
+TP_M_2,Cheese_Burger,Main,9.29,1 Bugerbeef Patty,640,32,11,0.5,95,1810,59,7,11,29
+TP_M_3,Classic_Chicken_Burger,Main,9.99,1 Burger,670,22,7,0,110,1690,67,4,23,45
+TP_M_4,Classic_Veggie_Burger,Main,8.99,1 Burgerbeef Patty,580,30,3.5,0,15,1330,59,12,6,25
+TP_M_5,Blue_Bacon_Burger,Main,13.99,1 Burger,810,52,22,1,150,2030,39,5,7,36
+TP_M_6,Spicy_Grilled_Cheese,Main,7.99,1 Sandwich,880,53,33,2,140,1880,70,4,1,25
+TP_M_7,Classic_Poutine,Main,8.29,320,880,51,16,0,80,2510,79,6,0,24
+TP_M_8,Mushroom_Pot_Pie,Main,8.99,1 pie,610,38,10,0.5,60,730,58,12,16,12
+TP_M_9,Steak&Mushroom_Pot_Pie,Main,7.99,1 pie,480,27,10,0,55,720,42,6,9,21
+TP_M_10,Spinach_Salad,Main,8.49,26,790,71,15,0,5,460,16,5,7,24
+TP_M_11,Meatball_Sub,Main,10.99,1 Sandwich,840,54,27,1.5,210,1830,48,8,6,40
+TP_M_12,Street_Corn_Burrito,Main,10.29,1 Burrito,740,29,9,0,10,1770,31,8,99,23
+TP_M_13,Chicken_Fajita_Burrito,Main,10.29,1 Burrito,790,25,4.5,0,10,1880,117,9,103,41
+TP_M_14,Carne_Asada_Burrito,Main,10.99,1 Burrito,790,31,6,0,10,2105,61,10,95,35
+TP_M_15,Street_Corn_Burrito_Bowl,Main,10.29,345,470,23,8,0,10,1120,31,8,54,14
+TP_M_16,Chicken_Fajita_Burrito_Bowl,Main,10.29,480,520,19,3.5,0,10,1230,117,9,58,32
+TP_M_17,Carne_Asada_Burrito_Bowl,Main,10.99,440,520,25,5,0,10,1455,61,10,50,26
+TP_M_18,Honey_Garlic_Pork,Main,10.99,335,430,10,1,0,15,750,72,5,16,14
+TP_M_19,Honey_Garlic_Tempeh,Main,9.99,335,560,11,1,0,0,640,91,11,25,24
+TP_S_1,Add_Bacon,Side,1.99,2 slices,340,32,11,0,70,680,0,0,0,11
+TP_S_2,Add_Cheese,Side,1.19,1 slice,60,5,3,0,15,105,0,0,0,4
+TP_S_3,Side_Strips,Side,9.29,4Pc + 40ml Dip,1160,86,4.5,0,70,1700,61,2,17,32
+TP_S_4,Side_Fries,Side,4.69,250,540,26,2,0,0,1350,70,6,0,6
+TP_S_5,Side_Yam_Fries,Side,5.29,250,480,24,3,0,0,710,62,4,19,3
+TP_S_6,Beef_Samosa,Side,4.99,1 samosa,350,10,4,0,205,1200,58,2,28,10
+TP_S_7,Vegeterian_Somosa,Side,4.99,1 samosa,310,6,1,0,0,1170,60,4,28,6
+TP_S_8,Steamed_Basmati_Rice,Side,2.49,150,310,2.5,0,0,0,190,66,3,0,6
+TP_S_9,Stirfry_Veggies,Side,2.49,150,110,4,0,0,0,440,16,4,7,4
+TP_S_10,Add_Poached_Prawns,Side,2.49,9,80,1,0,0,135,750,2,0,0,15
+TP_S_11,Thai_Cucumber_Salad,Side,2.49,191,200,10,1.5,0,0,620,28,3,19,4
+TP_S_12,Cowboy_Beans,Side,2.49,150,140,3,0,0,0,470,25,6,9,5
+TP_S_13,Glazed_Parsnips_and_Carrots,Side,2.49,150,170,2,0,0,0,290,37,10,15,3
+TP_S_14,Side_Mashed_Potato,Side,2.49,150,120,8,5,0,25,115,9,1,1,1
